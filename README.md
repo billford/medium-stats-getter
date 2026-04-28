@@ -2,7 +2,9 @@
 
 A browser console script that pulls your real Medium stats — views, reads, read ratio, and earnings — directly from Medium's internal GraphQL API and downloads them as a CSV.
 
-Medium gives you a data export, but it doesn't include stats. This fills that gap.
+Medium gives you a data export, but it doesn't include stats. This fills that gap. 
+
+The Medium Article is linked here: https://billford.io/hi-medium-i-like-you-but-i-hate-your-stats-13659cc2cb09
 
 ---
 
